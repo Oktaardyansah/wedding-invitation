@@ -452,3 +452,10 @@ footer a {
     top: 31px;
   }
 }
+
+@media (max-width: 300px) {
+  .simply-countdown > .simply-section {
+    padding: 20px;
+    margin: 1px;
+  }
+}
